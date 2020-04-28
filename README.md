@@ -1,0 +1,2 @@
+# nuxt-dynamic
+nuxt-dynamic
